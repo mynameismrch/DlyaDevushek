@@ -1,0 +1,6 @@
+U:\Погореловский\DlyaDevushek\DlyaDevushek\bin\Debug\DlyaDevushek.exe.config
+U:\Погореловский\DlyaDevushek\DlyaDevushek\bin\Debug\DlyaDevushek.exe
+U:\Погореловский\DlyaDevushek\DlyaDevushek\bin\Debug\DlyaDevushek.pdb
+U:\Погореловский\DlyaDevushek\DlyaDevushek\obj\Debug\DlyaDevushek.csproj.CoreCompileInputs.cache
+U:\Погореловский\DlyaDevushek\DlyaDevushek\obj\Debug\DlyaDevushek.exe
+U:\Погореловский\DlyaDevushek\DlyaDevushek\obj\Debug\DlyaDevushek.pdb

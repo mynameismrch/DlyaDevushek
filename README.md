@@ -1,2 +1,0 @@
-# DlyaDevushek
-Magazin na divane
